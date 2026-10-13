@@ -1,0 +1,10 @@
+Deployment Information
+======================
+
+Model Name: student_performance_rf
+Artifact: tuned_random_forest.pkl
+Created At: 2026-10-12
+R2 Score: 0.0
+
+Status: Ready for deployment
+Environment: local project workspace
